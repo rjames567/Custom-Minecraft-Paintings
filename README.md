@@ -28,3 +28,16 @@ Adding new paintings is simple.
      "width": <painting-width-in-blocks>
    }
 9. Re-install both datapack and resource pack
+
+## Designing painting textures
+www.pixilart.com/draw is a good online pixel art software to use. Alternatively, resize existing images
+to the correct dimensions and aspect ratio and use that as a png.
+
+The following are the vanilla painting resolutions. It is possible to use larger resolutions.
+ > 1 × 1 block: 16 × 16 pixels
+ > 2 × 1 blocks: 32 × 16 pixels
+ > 1 × 2 blocks: 16 × 32 pixels
+ > 2 × 2 blocks: 32 × 32 pixels
+ > 4 × 2 blocks: 64 × 32 pixels
+ > 4 × 3 blocks: 64 × 48 pixels
+ > 4 × 4 blocks: 64 × 64 pixels
